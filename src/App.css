@@ -4,10 +4,11 @@
 
 body {
     font-family: "Open Sans", serif;
-  }
-  .wrapper {
     background: linear-gradient(to right, #16A085, #F4D03F);
     height: 100vh;
+  }
+  .wrapper {
+    
     text-align: center;
   }
 .main{
